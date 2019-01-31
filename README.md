@@ -62,7 +62,7 @@ Je me suis aussi servi de MIDI MONITOR (https://www.snoize.com/MIDIMonitor/) pou
 
 ## REMERCIEMENT
 
-Je voudrais remercier 'Thorsten Klose' pour son magnifique projet dans qui rien ne serait possible, et 'FantomXR' sans qui je n'aurais pas pu connecter mon fatar et dont les topics ont rendus ce projets un peu plus réalistes à mes yeux. Merci aussi à toute ces communauté bienveillante de geeks bricoleurs  qui m'a donné la force d'aller au boût de ce projet. Merci surtout à l'élue de mon coeur qui a écouté chacunes de mes idées folles et m'a soutenu sans jamais sourciller. Merci !! 
+Je voudrais remercier 'Thorsten Klose' pour son magnifique projet sans qui rien ne serait possible, et 'FantomXR' sans qui je n'aurais pas pu connecter mon fatar et dont les topics ont rendus ce projets un peu plus réalistes à mes yeux. Merci aussi à toute ces communauté bienveillante de geeks bricoleurs  qui m'a donné la force d'aller au boût de ce projet. Merci surtout à l'élue de mon coeur qui a écouté chacunes de mes idées folles et m'a soutenu sans jamais sourciller. Merci !! 
 
 
 
