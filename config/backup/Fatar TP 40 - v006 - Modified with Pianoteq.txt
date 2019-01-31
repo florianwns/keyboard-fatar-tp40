@@ -1,0 +1,29 @@
+RESET_HW
+
+# reduce number of SRs for faster scan
+# with 2 SRs the scan takes ca. 500 uS instead of 2.5 mS
+SRIO num_sr=2
+
+# AIN hardware
+#AIN enable_mask=110000
+
+#EVENT_AIN id=1 type=CC chn=1 cc= 64 ain_mode=Switch range=127:0
+#EVENT_AIN id=2 type=CC chn=1 cc= 11 ain_mode=Direct range=0:127
+
+
+# keyboard configuration
+KEYBOARD n=1   rows=12  dout_sr1=1  dout_sr2=2  din_sr1=1  din_sr2=2 \
+               din_inverted=0  break_inverted=0  din_key_offset=40 \
+               scan_velocity=1 scan_optimized=1  note_offset=21 \
+               delay_fastest=55  delay_fastest_black_keys=29  delay_slowest=300 \
+               make_debounced=0
+
+# using an interpolation map to define the velocity curve
+MAP1/BYTEI  0:3 94:71 105:80 116:94 123:109 126:127
+
+# send MIDI event with mapped velocity value
+EVENT_KB id=1  type=NoteOn chn=1 key=any use_key_number=1 range=0:127  kb_velocity_map=map1  kb_transpose=0
+
+
+# From Pianoteq
+# Velocity = [0, 94, 105, 116, 123, 126; 3, 71, 80, 94, 109, 127]

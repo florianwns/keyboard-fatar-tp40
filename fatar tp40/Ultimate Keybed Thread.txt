@@ -1,0 +1,586 @@
+Source : https://www.gearslutz.com/board/electronic-music-instruments-and-electronic-music-production/1149168-ultimate-keybed-thread-models-manufacturers-listed.html
+
+
+Access
+
+Virus (37): Fatar TP/9S, gewichtet
+Virus (61): Fatar TP/8S
+VIRUS INDIGO 1 (37): Fatar TP/7BA
+VIRUS INDIGO 2 (37): Fatar TP/9S gewichtet, gekapselte Gewichte
+Virus TI 2 Polar/Darkstar (37): Fatar TP/9S gewichtet, gekaspelte Gewichte
+
+Akai
+
+Advance 25/49/61 (25/49/61): Eigendesign, gewichtet, recht sicher von Huaxin gebaut.
+
+Alesis
+
+Fusion 6HD (61): Fatar TP/9S, gewichtet
+Fusion 8HD (88): Fatar TP/40
+Ion (49): Fatar TP/7BA
+QS6(.1) (61): Fatar TP/9S, gewichtet
+QS7(.1) (76): Fatar TP/9S, gewichtet
+QS8(.1) (88): Fatar TP/20
+QS8.2 (88): Fatar TP/30
+
+Arturia
+
+KeyLab 88: Fatar TP/100LR
+
+Bowen, John
+
+Solaris (61): Fatar TP8S
+
+Clavia
+
+Nord Electro x (ohne HP): Fatar TP/8O
+Nord Electro 3 HP: Fatar TP/100
+Nord Electro 4 HP: Fatar TP/100LR
+
+Nordlead 1,2(x),4, A1 (49): Fatar TP/7BA
+Nordlead 3 (49): Fatar TP/9S, gewichtet
+NordWave (49): Fatar TP/9S, ungewichtet
+Nord Modular G2 (37): Fatar TP/9S
+
+Nord Piano 2: Fatar TP/40GH
+Nord Stage 2 88: Fatar TP/40 (von Clavia modifiziert)
+
+Dave Smith Instruments
+
+Mopho Keyboard: Fatar TP/9S, stärker gewichtet
+Mopho x4: Fatar TP/9S, leichter gewichtet
+Poly Evolver Keyboard: Fatar TP/9S, stärker gewichtet
+Prophet 6: Fatar TP/9S, gewichtet (gekapselte Gewichte)
+Prophet 08: Fatar TP/9S, leichter gewichtet
+Prophet 12 (61): Fatar TP/9S, leicht gewichtet
+OB-6: Fatar TP/9S, gewichtet (gekapselte Gewichte)
+
+Dexibell
+
+Vivo S3 (73): Fatar TP/100LR, Triple Contact
+Vivo P3 (73): Fatar TP/100LR, Triple Contact
+
+Doepfer
+
+LMK4+ (88) (bis Produktion 04/2011): Fatar TP/10MDR
+LMK4+ (88) (ab Produktion 04/2011): Fatar TP/40GH
+LMK2+ (88) (bis Produktion 04/2011): Fatar TP/10MDR
+LMK2+ (88) (ab Produktion 04/2011): Fatar TP/40GH
+
+Edirol (Roland)
+
+PC-160A (32): Fatar TP/7BA
+PC-180A (49): Fatar TP/7BA
+PC-200(MKII)(49): Fatar TP/7BA
+PC-300 (49): Fatar TP/7BA
+
+Elektron
+
+Analog Keys (37): Fatar TP/9S ungewichtet
+
+E-MU
+
+E-Synth (61): Fatar TP/8S
+E4k (61): Fatar TP/8S
+
+Ensoniq
+
+ASR-88 (88): Fatar TP/10
+Fizmo (61): Fatar TP/9S, gewichtet
+KT-76 (76): Fatar TP/10
+KT-88 (88): Fatar TP/10
+MR-61 (61): Fatar TP/9S, gewichtet
+MR-76 (76): Fatar TP/10
+SQ-2(plus/32) (76): Fatar TP/9S, Sonderversion mit kleinen, hochkant angebrachten Gewichten
+TS-12 (76): Fatar TP/10
+ZR-76 (erste Modelle): Fatar TP/10
+ZR-76 (neuere Modelle): Fatar TP/10 MDF
+
+ESI
+
+KeyControl 25 XT (25): Huaxin, Modell unbekannt
+KeyControl 49 XT (25): Huaxin, Modell unbekannt
+Keycontrol 61 XT (25): Huaxin, Modell unbekannt
+
+Fatar / Studiologic
+
+Sledge (gelb): Fatar TP/9S, ungewichtet
+Sledge "Black Edition": Fatar TP/9S, gewichtet (gekapselte Gewichte)
+
+Acuna (88): Fatar TP/100LR
+Numa (88): Fatar TP/400
+Numa Compact: Fatar TP/9 Piano
+Numa Concert: Fatar TP/40WOOD Ivory Touch
+Numa Nano (88): Fatar TP/100LR
+Numa Nero (88): Fatar TP/40WOOD
+Numa Piano (88): Fatar TP/100
+Numa Stage: Fatar TP/100LR
+
+SL990 Pro (88): Fatar TP/40GH
+SL990 XP (88): Fatar TP/40GH
+
+VMK-149 Plus (49): Fatar TP/8Piano
+VMK-161 Plus (61): Fatar TP/40M
+VMK-176 Plus (76): Fatar TP/40M
+VMK-188 Plus (88): Fatar TP/40GH
+VMK-88 Plus (88): Fatar TP/9Piano
+
+GEM
+
+Equinox (61): Fatar TP/9S, Sonderversion mit kleinen, hochkant angebrachten Gewichten
+Equinox Pro (88): Fatar TP/20
+
+Genesys(S)(61): Fatar TP/9S, gewichtet
+Genesys Pro(S)(61): Fatar TP/9S, gewichtet
+
+Pro 1/2 (88): Fatar TP/20
+Promega 2/3 (88): Fatar TP/30 (leicht angepasst und leichter gewichtet als das Pro 1/2)
+RP Basic (88): Fatar TP/20
+RP10 (88): Fatar TP/21
+RP100 (88): Fatar TP/21
+RP120 (88): Fatar TP/21
+RP15 (88): Fatar TP/21
+RP150 (88): Fatar TP/21
+RP2 (88): Fatar TP/10 MDE
+RP200 (88):Fatar TP/21
+RP3 (88): Fatar TP/10 MDE
+RP60 (88): Fatar TP/21
+RP70 (88): Fatar TP/21
+RP8 (88): Fatar TP/20
+RP88 (88): Fatar TP/20
+
+S2, S2 Turbo (61): Fatar TP/8S, alte Version, aber mit mech. Kontakten und polyAT (GEM-Eigenbau)
+S3, S3 Turbo (76): Fatar TP/8S, alte Version, aber mit mech. Kontakten und polyAT (GEM-Eigenbau)
+SX2 (61): Fatar TP/8S, alte Version, aber mit mech. Kontakten und polyAT (GEM-Eigenbau)
+SX3 (76): Fatar TP/8S, alte Version, aber mit mech. Kontakten und polyAT (GEM-Eigenbau)
+
+WK2 (61): Fatar TP/9S
+WK3 (61): Fatar TP/9S
+WK4 (61): Fatar TP/9S
+WK6 (61): Fatar TP/9S
+WK8 (61): Fatar TP/9S
+WK8 SE/LE (61): Fatar TP/9S
+
+Kawai
+
+K3 (61): Matsu****a ESK-3020
+K5000 (S und W): Fatar TP/8S, alte Version
+
+Korg
+
+01/W (61): Yamaha FS-61
+01/W Pro (76): Yamaha FS-E76
+01/W Pro X (88): Yamaha A88
+Delta (49): Matsu****a ESK-316V (nicht dynamisch)
+DSS-1 (61): Matsu****a ESK-903
+dw-6000 (61): Matsu****a ESK-70
+DW-8000 (61): Matsu****a ESK-901
+EC150 (88): Fatar TP/30
+EC320 (88): Fatar TP/30
+i2 (76): Yamaha FS-E76 
+i3 (61): Yamaha FS-61
+i30 (61): Yamaha FS-61 
+i4 (S) (61): Fatar TP/9S, gewichtet
+i5S (61): Fatar TP/7BA 
+iS35 (61): Fatar TP/9S, ungewichtet
+iS40 (61): Fatar TP/9S, ungewichtet
+iS50 (61): Fatar TP/7BA 
+ix300 (61): Fatar TP/9S, ungewichtet
+Karma (61): Fatar TP/9S, ungewichtet
+Kontrol 49 (49): Fatar TP/9S, ungewichtet
+Kronos (73/88): Korg RH3
+M1 (61): Yamaha FS-61
+M3 (61): Matsu****a SK-61
+M3 (73): Matsu****a SK-73
+M3 (88): Korg RH3
+MS2000 (44): Fatar TP/7BA
+N1 (88): Yamaha AE2-88
+N264 (76): Fatar TP/9S, ungewichtet
+N364 (61): Fatar TP/9S, ungewichtet
+Oasys (88): Fatar TP/41 (Custom-Anfertigung), als RH2 bezeichnet
+Oasys (76): Yamaha FS-E76
+Pa-1x Pro (76): Fatar TP/8SK
+PA-2x Pro (76): Fatar TP/8SK
+PA-3x Pro (76): Fatar TP/8SK
+PA588 (88): Fatar TP/40, bei Korg aber als RH3 bezeichnet
+PA800 (61): Fatar TP/9S, ungewichtet
+Poly 800 (49): Matsu****a ESK-70
+Poly-61 (61): Matsu****a ESK-70
+Polysix (61): Matsu****a ESK-70
+PROPHECY (61) Fatar TP/9S, ungewichtet
+RADIAS (61): Fatar TP/9S, ungewichtet
+RK-100 (41): Matsu****a ESK-70
+SG Pro X (88): Yamaha AE2-88
+SG-1D (88): Yamaha A88
+SP100 (88): Fatar TP/10
+SP200 (88): Fatar TP/30
+SP250 (88): RH3
+SP300 (88): Fatar TP/30
+SP500 (88): Fatar TP/40, von Korg als RH2 bezeichnet
+SV-1: Korg RH3
+T1 (88): Yamaha A88
+T2 (76): Yamaha FS-76
+T3 (61): Yamaha FS-61
+TR61 (61): Fatar TP/9S
+TR76 (76): Fatar TP/9S
+TR88 (88): Fatar TP/41
+Trident MKII (61): Matsu****a ESK-30
+Trinity (61): Yamaha FS-61
+Trinity pro (Extreme) (76): Yamaha FS-E76
+Trinity Pro/X (88): Yamaha AE2-88
+Triton (Extreme) (61): Yamaha FS-61
+Triton LE (61): Fatar TP/9S
+Triton LE (76): Fatar TP/9S
+Triton pro (Extreme) (76): Yamaha FS-E76
+TRITON PROX (Extreme) (88): Yamaha AE2-88
+Wavestation (61): Yamaha FS-61
+X2 (76): Fatar TP/9S
+X3 (61): Yamaha LC-61
+X5(D)(61): Fatar TP/7BA
+XC2000 (88): Fatar TP/10
+Z1 (61): Yamaha FS-61
+
+Kurzweil
+
+Artis (88): Fatar TP/100LR
+Artis SE (88): Fatar TP/100LR
+Artis 7 (76): Fatar TP/8 Piano, neue Version (straffere Federung)
+
+Forte 7 (76): Fatar TP/40L
+Forte (88): Fatar TP/40L
+Forte SE (88): Fatar TP/40L
+
+K2000 (61): Fatar TP/9S, gewichtet
+K2500 (76): Fatar TP/8Piano
+K2500X (88): Fatar TP/10
+K2600 (76): Fatar TP/8Piano
+K2600X (88): Fatar TP/10MDF
+K2661 (61): Fatar TP/9S, gewichtet
+
+PC1SE (76): Fatar TP/30
+PC1x (88): Fatar TP/30
+PC2x (88): Fatar TP/10MDF
+PC88 (88): Fatar TP/10MD
+PC361 (61): Fatar TP/9S, voll gewichtet (gekapselte Gewichte)
+PC3 (76): Fatar TP/8Piano
+PC3X (88): Fatar TP/40L
+PC3A6: Fatar TP/9S, voll gewichtet (gekapselte Gewichte)
+PC3A7: Fatar TP/8Piano
+PC3A8: Fatar TP/40L
+PC3K8 (88): Fatar TP/40L
+PC3K7 (76): Fatar TP/8Piano
+PC3K6 (61): Fatar TP/9S, voll gewichtet (gekapselte Gewichte)
+
+PC3LE8 (88): Fatar TP/40L
+PC3LE7 (76): Fatar TP/8Piano
+PC3LE6 (61): Fatar TP/8Piano
+
+SP4-8 (88): Fatar TP/100
+SP4-7 (76): Medeli KB76FPU
+SP5-8 : LK40GH
+SP76 (76): Fatar TP/8Piano
+SPS4-8: LK40GH
+
+M-Audio
+
+Axiom 61: Fatar TP9Piano
+
+MFB
+
+Dominion 1 (37): Fatar TP/9S, voll gewichtet (gleiche Version wie in Kurzweil PC361/PC3K6, gekapselte Gewichte)
+
+Modal Electronics (ehemals Modulus)
+
+002 (61): Fatar TP/9S, gewichtet (gekapselte Gewichte)
+008 (61): Fatar TP/9S, gewichtet (gekapselte Gewichte)
+001 (37): Fatar TP/9S, gewichtet (gekapselte Gewichte)
+
+Moog
+
+Voyager: Fatar TP/9S, gewichtet, (gekapselte Gewichte)
+minimoog Reissue: Fatar TP/9S, gewichtet (gekapselte Gewichte)
+Sub 37: Huaxin, Modell unbekannt
+Sub Phatty: Huaxin, Modell unbekannt
+Memorymoog (61): Matsu****a ESK-70
+
+Novation
+
+bass station: Fatar TP/7BA
+bass station 2: Huaxin, Modell unbekannt
+Impulse: V-Tech (Spielzeughersteller), Modell unbekannt
+K-Station (25): Fatar TP/7BA
+KS-5 (61): Fatar TP/9S, gewichtet (gekapselte Gewichte)
+SL Remote: Fatar TP/9S gewichtet (mit Aftertouch)
+SuperNova (II/pro/proX (61): Fatar TP/8S, alte Version
+X-Station (49): Fatar TP/9S, gewichtet
+
+Oberheim
+
+OB-8 (61), altes Modell: Pratt-Read, Modell unbekannt
+OB-8 (61), neueres Modell: Matsu****a ESK-70
+
+
+Quasimidi
+
+Cyber-6 (61): Fatar TP/8S, alte Version
+Raven (61): Fatar TP/8S, alte Version
+Sirius (49): Fatar TP/7BA
+
+
+Radikal Technologies
+
+Accelerator: Fatar TP/8SK
+
+Rhodes by Roland
+
+Model 660 (61): Matsu****a SK-761
+Model 760 (76): Matsu****a SK-776
+VK-1000 (76): Matsu****a SK-876
+
+Roland
+
+A-30 (76): Fatar TP/9 Piano
+A-33 (76): Fatar TP/9 Piano
+A-37 (76): Fatar TP/9 Piano
+A-50 (76): Matsu****a SK-376-DW (polyphoner Aftertouch)
+A-70 (76): Fatar TP/8S, alte Version (schwerer und straffer als die Aktuelle)
+A-80 (88): Matsu****a SK-688
+A-90 (88): Matsu****a PA-4A88-F (J-Wire, Poly AT)
+AX-1 (49): Fatar TP/7BA
+AX-7 (49): Fatar TP/7BA
+Alpha Juno-1 (49): Matsu****a SK-391
+Alpha Juno 2 (61): Matsu****a SK-361
+
+
+D-50 (61): Matsu****a SK-361
+D-70 (76): Matsu****a SK-776
+DJ-70(MKII)(37): Fatar TP/7BA
+
+E-600 (61): Fatar TP/9S
+E-80 (61): Fatar TP/9S
+EP-10 (61): Matsu****a SK-162
+EP-20 (61): Matsu****a SK-162
+EP-30 (61): Matsu****a SK-162
+EP-7 (76): Matsu****a SK-7P76
+EP-9 (88): Matsu****a SK-8P88
+
+Fantom X6 (61): Matsu****a SK-961
+Fantom X7 (76): Matsu****a SK-976
+
+FP4 (88): PHA alpha II
+FP7 (88): PHA II
+FP7-F (88): PHA III Ivory Feel-S
+FP-8 (88): Matsu****a PA-488
+
+G-70 (76): Fatar TP/8S
+G-600 (61): Fatar TP/9S
+G-800 (76): Fatar TP/8S, alte Version
+G-1000 (76): Fatar TP/8S, alte Version
+
+HP-60 (61): Matsu****a SK-361
+HP-70 (75): Matsu****a SK-371
+HP-126 (88): Fatar TP/10
+HP-245 (88): Matsu****a PA-4A88
+HP-335 (88): Matsu****a PA-4A88
+HP-535 (88): Matsu****a PA-4A88
+HP-555G (88): Matsu****a PA-4A88
+HP-2000 (88): Matsu****a SK-576
+HP-2700 (88): Matsu****a SK-688
+HP-3000 (88): Matsu****a SK-588 (mech. Kontakte)
+HP-3700 (88): Matsu****a SK-688
+HP-4500 (88): Matsu****a SK-588
+HP-5500 (88): Matsu****a SK-588
+HP-5600 (88): Matsu****a SK-588
+
+JD-800 (61): Matsu****a SK-761
+JP-8000 (49): Matsu****a SK-949
+Juno-106 (61): Matsu****a SK-361
+Juno-6/60 (61): Matsu****a SK-361
+Jupiter-4 (49): Matsu****a SK-191
+Jupiter-6 (61): Matsu****a SK-361
+Jupiter-8 (61): Matsu****a SK-361
+JV-1000 (76): Matsu****a SK-876
+JV-30 (61): Matsu****a SK-861
+JV-35 (61): Matsu****a SK-8L61
+JV-50 (61): Matsu****a SK-8L61
+JV-80 (61): Matsu****a SK-861
+JV-90 (76): Matsu****a SK-876
+JX-1 (61): Matsu****a SK-861
+JX-10 (76): Matsu****a SK-3xx
+JX-305 (61): Matsu****a SK-861
+JX-3P (61): Matsu****a SK-361
+JX-8P (61): Matsu****a SK-361
+
+KR-575(P)(88): Matsu****a PA-4A88
+MKB-200 (61): Matsu****a SK-361
+
+RD-100: Fatar TP/10 MDF
+RD-200 (76): Matsu****a SK-476
+RD-250s (76): Matsu****a SK-676
+RD-300 (88): Matsu****a SK-588
+RD-300s (88): Matsu****a SK-688
+RD-500 (88): Matsu****a PA-488
+RD-600 (88): Matsu****a PA-4A88
+RD-700GX (88): PHA II Ivory Feel
+RD-700NX (88): PHA III Ivory Feel
+RD-1000 (88): Matsu****a PA-388B Holzbalkentastatur
+RD-2000: PHA-50 progressive hammer-action keyboard with escapement
+PHA-50 Keyboard: Wood and Plastic Hybrid Structure, with Escapement and Ebony/Ivory Feel (88 keys)
+
+RS-101 (61): Matsu****a SK-161
+RS-202 (61): Matsu****a SK-161
+RS-505 (49): Matsu****a SK-192
+
+S-10 (49): Matsu****a SK-391
+S-50 (61): Matsu****a SK-361
+SH-09 (32): Matsu****a SK-132
+SH-1 (32): Matsu****a SK-132
+SH-1000 (37): Matsu****a SK-132
+SH-101 (32): Matsu****a SK-331
+SH-2 (37): Matsu****a SK-132
+sh-2000 (37): Matsu****a SK-132
+SH-3a (44): Matsu****a SK-142
+SH-5 (44): Matsu****a SK-142
+Sh-7 (44): Matsu****a SK-142
+System-100(M)(37): Matsu****a SK-132
+System-700(61): Matsu****a SK-162
+
+U-20 (61): Matsu****a SK-761
+
+V-Synth(GT) (61): Matsu****a SK-961
+VA-7 (61): Fatar TP/9S, ungewichtet
+VA-76 (76): Fatar TP/8S
+VP-330 (49): Matsu****a SK-191
+
+W-30 (61): Matsu****a SK-361
+XP-10 (61): Matsu****a SK-961
+XP-30 (61): Matsu****a SK-861
+XP-50 (61): Matsu****a SK-8L61
+XP-60 (61): Matsu****a SK-861
+XP-80 (76): Matsu****a SK-876
+
+V-Piano (88): PHA III Ivory Feel
+
+Sequential Circuits (SCI)
+
+MultiTrak (49): Matsu****a ESK-70
+Pro One (37): Pratt-Read, J-Wire 
+Prophet 2000 (61): Matsu****a ESK-3020
+Prophet 5/10 (61): Pratt-Read 
+Prophet 600 (61): Matsu****a ESK-70
+Prophet Remote (49): Pratt-Read 
+Prophet VS (61): Matsu****a ESK-3020
+SixTrak (61): Matsu****a ESK-7113
+Split-Eight (61): Matsu****a ESK-70
+
+Solton
+
+SG1 (61): Fatar TP/9S (baugleich GEM Genesys)
+
+
+Tom Oberheim
+
+two voice Pro (37): Fatar TP/9S, Gewichtung noch unbekannt.
+
+Viscount
+
+Physis Piano H1 (88): Fatar TP40 WOOD (mit "Ivory Feel", Triple Contact)
+Physis Piano H2: Fatar TP/40 L (modifiziert)
+Physis Piano H3 (73): Fatar TP40 WOOD (mit "Ivory Feel", Triple Contact)
+
+Physis K4 (EX)(88): Fatar TP40 L
+Physis K4 GW (88): Fatar TP40 WOOD (mit "Ivory Feel", Triple Contact)
+Physis K5 (EX)(76): Fatar TP100 LR
+
+"Oberheim" OB-12 (49): Fatar TP/9S, ungewichtet
+
+
+Waldorf
+
+Blofeld Keyboard: Fatar TP/9S, gewichtet, gekapselte Gewichte
+Q Keyboard und Q+ (61): Fatar TP/9S, gewichtet (gekapselte Gewichte)
+Wave (61): TP/8S, alte Version
+XTK (61): Fatar TP/9S, gewichtet (gekapselte Gewichte)
+
+Zarenbourg: Fatar TP/100
+Zarenbourg (76), Modell 2015: Fatar TP/40M
+
+
+Wersi
+
+Pegasus: Fatar TP8/S
+
+Yamaha
+
+CLP-260 (88): Yamaha AE2-88
+CLP-300 (88): Yamaha AE2-88
+CLP-350 (88): Yamaha AE2-88
+CLP-360 (88): Yamaha AE2-88
+CLP-550 (88): Yamaha AE2-88
+CLP-560 (88): Yamaha AE2-88
+CLP545 (88): Yamaha NWX
+CLP525 (88): Yamaha GH3CP4: NW-GH
+CP4 (88): Yamaha NW-GH
+
+DGX-230/YPG235 (76): Yamaha 16N-E76
+DGX-305 (76): Yamaha 16N-E76-PNW
+DGX-505 (88): Yamaha 16N-A88
+DGX-620 (88): Yamaha GH
+DGX-630 (88): Yamaha GHS
+DGX660 (88) Yamaha GHSP45: GHS
+DGX-640 (88): Yamaha GHS
+DS55 (61): Yamaha C61 K6
+DX11 (61): Yamaha C61 K6
+DX7 (61): Yamaha FX-20
+DX7IID/FD (61): Yamaha FS-C61 (schwerer als die daraus abgeleitete FS-61, die in sehr vielen Geräten verbaut wurde)
+
+EX5 (76): Yamaha FS-E76
+EX7 (61): Yamaha LC-61
+
+KX8 (88): Yamaha GHS
+MM8 (88): Yamaha GHS
+MO6 (61): Yamaha LC C61
+MO8 (88): Yamaha BHE
+Motif 6 (61): Yamaha FS-C61
+MOTIF 7 (76): Yamaha FS-E76
+Motif 8 (88): Yamaha A88 K6
+Motif ES 6 (61): Yamaha FS-C61
+MOTIF ES 7 (76): Yamaha FS-E76
+Motif ES 8 (88): Yamaha A88 K6
+MOTIF XF8 (88): Yamaha BHE
+Motif XS6 (61): Yamaha C61 K6 FSX D
+Motif XS7 (76): Yamaha E76 K6 FSX D
+MOTIF XS8 (88): Yamaha A88 K6
+MOX8 (88): Yamaha GHS
+
+P105 (88): Yamaha GHS
+P115 (88): Yamaha GHS
+P150 (88): Yamaha AE2
+P155 (88): Yamaha GH
+P255 (88): Yamaha GH
+P300 (88): Yamaha AE
+P35 (88): Yamaha GHS
+P500 (88): Yamaha AE
+P70(S) (88): Yamaha GH
+P85 (88): Yamaha GHS
+P95 (88): Yamaha GHS
+PF-P100 (88): Yamaha AE
+PSR-9000 (61): Yamaha C61 K6
+
+S90ES (88): Yamaha BHE
+S90XS (88): Yamaha BHE
+SY22 (61): Yamaha LC C61K6
+SY35 (61): Yamaha LC C61K6
+SY77 (61): Yamaha FS C61
+SY85 (61): Yamaha C61K12
+SY-99 (76): Yamaha FS-E76
+
+W5 (76): Yamaha FS-E76
+W7 (61): Yamaha C61 K6
+
+YDP143 (88): Yamaha GHS
+YDP163 (88): Yamaha GH3
+YDP181 (88): Yamaha GH
+YDP-V240 (88): Yamaha GHS
+YPG-625 (88): Yamaha GH
+YPG-635/DGX-630 (88): Yamaha GHS

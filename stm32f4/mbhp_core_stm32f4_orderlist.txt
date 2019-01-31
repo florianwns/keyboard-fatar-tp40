@@ -1,0 +1,50 @@
+
+To english readers: since I only have experience with german mailorder 
+distributors, this list is mainly dedicated for users from Germany
+
+------------------------------------------------------------------------------
+
+MBHP Core STM32F4 Orderlist (last update: 01-2014)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+All prices in EUR (Euro)
+Exchange rates: see http://www.xe.com
+
+at http://www.reichelt.de
++----------------------------------------------+-------+--------------------+-------+--------+
+| Description                                  | Qty   | Part #             | Price | Total  |
++----------------------------------------------+-------+--------------------+-------+--------+
+| Diode 1N4148                                 |     1 | 1N 4148            |  0.02 |   0.02 |
+| Transistor BC337                             |     1 | BC 337-16          |  0.06 |   0.06 |
+| 74HC595                                      |     1 | 74HC 595           |  0.30 |   0.30 |
+| IC-Socket for 74HC595                        |     1 | GS 16              |  0.04 |   0.04 |
+| 74HCT541                                     |     1 | 74HCT 541          |  0.20 |   0.20 |
+| IC-Socket for 74HCT541                       |     1 | GS 20              |  0.04 |   0.04 |
+| Ceramic Cap 100 nF                           |     2 | Z5U-2,5 100n       |  0.06 |   0.12 |
+| Resistor 10 kOhm                             |     1 | 1/4W 10k           |  0.03 |   0.03 |
+| Resistor 1 kOhm                              |     2 | 1/4W 1.0k          |  0.03 |   0.06 |
+| Resistor 2.2 kOhm                            |     4 | 1/4W 2.2k          |  0.03 |   0.12 |
+| Resistor Network 4*1 kOhm (1 common pin)     |     1 | SIL 5-4 1,0K       |  0.08 |   0.08 |
+| TrimmPot 10 k                                |     2 | PT 6-L 10K         |  0.22 |   0.44 |
+| 2x5 DIL Headers (German: "Wannenstecker")    |    10 | WSL 10G            |  0.08 |   0.80 |
+| 2x5 DIL Sockets (German: "Pfostenbuchse")    |    10 | PFL 10             |  0.08 |   0.80 |
+| 2x8 DIL Headers (German: "Wannenstecker")    |     2 | WSL 16G            |  0.07 |   0.14 |
+| 2x8 DIL Sockets (German: "Pfostenbuchse")    |     2 | PFL 16             |  0.09 |   0.18 |
+| 1-row SIL Headers (9 pins required)          |     1 | SL 1X40G 2,54      |  0.18 |   0.18 |
+| 2-row SIL Headers (2 2x25 pins required)     |     2 | BL 2X25G 2,54      |  1.40 |   2.80 |
+| Jumpers                                      |     2 | JUMPER 2,54GL RT   |  0.05 |   0.10 |
+| Ribbon cable 3 meters                        |     3 | AWG 28-16G         |  0.66 |   1.98 |
+| Micro-USB B Cable for USB-MIDI connection    |     1 | AK 676-AB2         |  2.10 |   2.10 |
++----------------------------------------------+-------+--------------------+-------+--------+
+Note 1: the ribbon cable is listed for people who don't have alread cable at home ;-)
+Note 2: DIL sockets for interconnection to other modules. It makes sense to order more
+        (e.g. 10 pieces)
+Note 3: outside europe the BC337 is hard to find, the 2N3904 is a good replacement
+        But note that the outer pins (E and C) are exchanged - you have to upturn the
+        transistor to get the E, B, C pin matching with the PCB
+Note 4: Reichelt doesn't sell the STM32F4DISCOVERY module
+        Shops are listed under http://www.ucapps.de/mbhp_core_stm32f4.html
+Note 5: Reichelt doesn't sell the 3M SD Card Socket
+        Can be ordered at Mouser - SD-RSMT-2-MQ
+
+tk@midibox.org

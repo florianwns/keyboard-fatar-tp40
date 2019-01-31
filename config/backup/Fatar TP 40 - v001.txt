@@ -1,0 +1,20 @@
+RESET_HW
+
+# reduce number of SRs for faster scan
+# with 2 SRs the scan takes ca. 500 uS instead of 2.5 mS
+SRIO num_sr=2
+
+# keyboard configuration
+KEYBOARD n=1   rows=12  dout_sr1=1  dout_sr2=2  din_sr1=1  din_sr2=2 \
+               din_inverted=0  break_inverted=0  din_key_offset=40 \
+               scan_velocity=1 scan_optimized=1  note_offset=21 \
+               delay_fastest=40  delay_fastest_black_keys=40  delay_slowest=300 \
+               make_debounced=0
+
+# using an interpolation map to define the velocity curve
+# https://www.pianoteq.com/velocity_curves
+# Velocity PC3X = [3, 5, 15, 30, 49, 72, 98, 127; 0, 24, 44, 62, 79, 95, 111, 127]
+MAP1/BYTEI  0:3 24:5 44:15 62:30 79:49 95:72 111:98 127:127 
+
+# send MIDI event with mapped velocity value
+EVENT_KB id=1  type=NoteOn chn=1 key=any use_key_number=1 range=0:127  kb_velocity_map=map1  kb_transpose=0

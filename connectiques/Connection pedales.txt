@@ -1,0 +1,73 @@
+            +-------------------------------------------------+
+            | Connecter une pédale d'expression et de sustain |
+            +-------------------------------------------------+
+
+# Pédale d'expression "M-audio EX-P"  :
+
+  - En Mode "M-Audio" sur la pédale, on connecte les fils comme ceci :
+
+                          Jack Stéréo
+            +---------------------------------------+
+            |          Tip          Sleeve          |
+            |           |             |             |
+            |           v             v             |
+            |       --+-----------------------+     |
+            |     /   |    |    |             |     |
+            |     \   |    |    |             |     |
+            |       --+-----------------------+     |
+            |                ^                      |
+            |                |                      |
+            |               Ring                    |
+            +---------------------------------------+
+
+
+    ° Tip    -> Ground
+    ° Ring   -> 3.3 V
+    ° Sleeve -> Input Analog
+
+    Le problème c'est qu'au branchement cela crée un court circuit,
+    il faut donc allumer le controleur une fois que les branchement sont fait,
+    il n'y a pas de protection contre cela.
+
+
+  - Autre Solution, en Mode "Other" :
+
+    On branche en inversant le 3.3 v et l'input analog
+
+    ° Tip    -> Ground
+    ° Ring   -> Input Analog
+    ° Sleeve -> 3.3 V
+
+
+  - Astuce (smooth outlying data): Si la tension de 3.3v n'est pas stable
+  alors il va subvenir des variations, il faut donc placer un condensateur
+  de 100 nf entre le ground et l'input analog pour adoucir les variations
+  à la sortie. il faut la placer au plus près du controleur sinon sur le jack.
+
+
+
+# Pédale de sustain "M-audio SP-2"  :
+
+                              Jack Mono
+                +----------------------------------+
+                |          Tip          Sleeve     |
+                |           |             |        |
+                |           v             v        |
+                |       --+------------------+     |
+                |     /   |    |             |     |
+                |     \   |    |             |     |
+                |       --+------------------+     |
+                |                                  |
+                +----------------------------------+
+
+
+  Il faut brancher une résistance de 10k ohm entre le Ground et l'input analog
+  La pédale possède deux modes, les controleur MIDI acceptent
+  soit un contact ouvert soit un contact fermé.
+
+
+                   10 K ohm <- Ground
+                   |
+                   v
+    ° Tip    -> Input Analog
+    ° Sleeve -> Ground

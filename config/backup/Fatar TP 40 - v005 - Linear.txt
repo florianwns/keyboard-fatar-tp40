@@ -1,0 +1,36 @@
+RESET_HW
+
+# reduce number of SRs for faster scan
+# with 2 SRs the scan takes ca. 500 uS instead of 2.5 mS
+SRIO num_sr=2
+
+# AIN hardware
+#AIN enable_mask=110000
+
+#EVENT_AIN id=1 type=CC chn=1 cc= 64 ain_mode=Switch range=127:0
+#EVENT_AIN id=2 type=CC chn=1 cc= 11 ain_mode=Direct range=0:127
+
+
+# keyboard configuration
+KEYBOARD n=1   rows=12  dout_sr1=1  dout_sr2=2  din_sr1=1  din_sr2=2 \
+               din_inverted=0  break_inverted=0  din_key_offset=40 \
+               scan_velocity=1 scan_optimized=1  note_offset=21 \
+               delay_fastest=40  delay_fastest_black_keys=29  delay_slowest=300 \
+               make_debounced=0
+
+# using an interpolation map to define the velocity curve
+MAP1/BYTEI  0:1 127:127
+
+# send MIDI event with mapped velocity value
+EVENT_KB id=1  type=NoteOn chn=1 key=any use_key_number=1 range=0:127  kb_velocity_map=map1  kb_transpose=0
+
+
+
+
+
+# Set    : 0   1   2   3   6   10  14  15  17  18  21  22  24  26  27  28  29  30  32  33  34  37  38  41  42  44  45  48  49  51  52  53  54  55  56  57  58  59  61  62  64  65  66  68  69  70  71  72  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  95  96  97  98  99  100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127
+# Ecart  : 0   1   1   1   3   4   4   1   2   1   3   1   2   2   1   1   1   1   2   1   1   3   1   3   1   2   1   3   1   2   1   1   1   1   1   1   1   1   2   1   2   1   1   2   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1   1
+# Min Ec  : 0
+# Max Ec  : 4
+# Max Ve  : 127
+# Nombre : 103
